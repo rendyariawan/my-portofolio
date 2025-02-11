@@ -1,19 +1,19 @@
 module.exports = {
-  content: ['index.html'],
-  darkMode: 'class',
+  content: ["index.html"],
+  darkMode: "class",
   theme: {
     container: {
       center: true,
-      padding: '16px',
+      padding: "16px",
     },
     extend: {
       colors: {
-        primary: '#14b8a6',
-        secondary: '#64748b',
-        dark: '#0f172a',
+        primary: "#000c40",
+        secondary: "#64748b",
+        dark: "#0f172a",
       },
       screens: {
-        '2xl': '1320px',
+        "2xl": "1320px",
       },
     },
   },
